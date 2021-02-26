@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "CharvyJain",
+      "name": "CharvyJain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69421337?v=4",
+      "profile": "https://github.com/CharvyJain",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "LetsUpgrade",
+  "projectOwner": "CharvyJain",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
